@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400);
+
+.name {
+  font-family: 'Ubuntu';
+}
+
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}
+
+body {
+  background-image: url(../img/sos.png);
+}
+
+.jumbotron {
+  margin-top: 5%;
+}
+
+.date {
+  color: #420061;
+}
